@@ -1,12 +1,16 @@
-- 👋 olá, bem vindo ao meu perfil, sou Dusk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ### olá, bem vindo ao meu perfil
 
-<!---
-dusk077/dusk077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  eu sou o Eduardo 👍
+
+-  estudante na [Alura](https://www.alura.com.br)
+-  Estou me desenvolvendo na linguagem JavaScript
+-  utilizo esse espaçao oara compartilhamento dos meus projetos desenvolvidos
+
+-  ### você pode entrar em contato comigo :📩
+
+-  00001115142938sp@aluno.educacao.sp.gov.br
+
+-  @Resends_Edu
+
+ ![](https://media1.tenor.com/m/J1jNpBUkqkYAAAAC/cr7-calma.gif)
+  
